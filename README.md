@@ -1,0 +1,2 @@
+# Automated-Soft-Drink-Batching-System-using-Studio-5000-FactoryTalk-View-Site-Edition-SE-
+Developed a complete PLC-based automation system for a soft drink manufacturing and batching process using Studio 5000 and FactoryTalk View Site Edition (SE). The system consists of a Fructose Corn Syrup Tank, Caffeine Tank, Master Recipe Tank, Product Mixing Tank, transfer pumps, automated control valves, and interconnected pipelines.
