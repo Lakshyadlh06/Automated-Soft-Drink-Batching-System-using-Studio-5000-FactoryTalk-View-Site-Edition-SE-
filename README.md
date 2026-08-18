@@ -1,4 +1,3 @@
-# Automated-Soft-Drink-Batching-System-using-Studio-5000-FactoryTalk-View-Site-Edition-SE-
 Industrial Beverage Batching & Process Control System
 
 A PLC and SCADA/HMI-based industrial beverage batching and process-control system developed using Allen-Bradley PLCs, Studio 5000 Logix Designer, and FactoryTalk View SE. The project focuses on implementing automated batch sequencing, recipe-based process control, equipment monitoring, alarm management, and secure operator interaction through an integrated industrial automation architecture.
