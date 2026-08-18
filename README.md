@@ -2,7 +2,7 @@
 
 A PLC and SCADA/HMI-based industrial beverage batching and process-control system developed using Allen-Bradley PLCs, Studio 5000 Logix Designer, and FactoryTalk View SE. The project focuses on implementing automated batch sequencing, recipe-based process control, equipment monitoring, alarm management, and secure operator interaction through an integrated industrial automation architecture.
 
-Project Overview
+# Project Overview
 
 The system models an industrial beverage production process involving ingredient storage, material transfer, mixing, and finished-product handling. The PLC executes the process sequence and equipment control logic, while the FactoryTalk View SE application provides real-time process visualization and supervisory control.
 
@@ -50,7 +50,7 @@ Engineering Workflow
 
 The project followed an industrial automation development workflow involving control philosophy development, PLC I/O identification, PLC tag development, ladder-logic implementation, HMI/SCADA development, equipment faceplate creation, alarm configuration, security implementation, and system testing.
 
-Objective
+# Objective
 
 The objective was to develop an integrated PLC-SCADA application that demonstrates how industrial control logic, process visualization, operator interaction, alarm management, and equipment-level control are implemented as part of a unified automation system.
 
